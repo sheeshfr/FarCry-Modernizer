@@ -1,0 +1,15 @@
+$AnimDir = .
+
+$AutoUnload = no
+$DelayLoad = no
+
+activate1 = smokegren_Activate1.caf
+deactivate1 = smokegren_Deactivate1.caf
+idle11 = smokegren_Idle11.caf
+idle21 = smokegren_Idle21.caf
+fire11 = smokegren_Fire11.caf
+firestart1 = smokegren_FireStart1.caf
+fidget11 = smokegren_Fidget11.caf
+
+$AutoUnload = yes
+$DelayLoad = yes

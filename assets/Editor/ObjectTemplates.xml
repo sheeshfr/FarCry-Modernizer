@@ -1,0 +1,7 @@
+<ObjectTemplates>
+	<Entity SuperType="StdEntity" Category="Entity" />
+	<TagPoint SuperType="StdTagPoint" Category="TagPoint" />
+	<Comment SuperType="StdTagComment" Category="Misc" />
+	<SoundSpot SuperType="StdEntity" Category="Sound" File="SoundSpot" />
+	<FogVolume SuperType="StdVolume" Category="Area" />
+</ObjectTemplates>

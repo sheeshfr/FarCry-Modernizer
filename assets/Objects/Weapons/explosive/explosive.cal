@@ -1,0 +1,18 @@
+$AnimDir = .
+
+$AutoUnload = no
+$DelayLoad = no
+
+activate1 = explosive_Activate1.caf
+idle11 = explosive_Idle11.caf
+idle21 = explosive_Idle21.caf
+fire11 = explosive_Fire11.caf
+fire12 = explosive_Fire12.caf
+fire21 = explosive_Fire21.caf
+fidget11 = explosive_Fidget11.caf
+fidget21 = explosive_Fidget21.caf
+grenade11 = explosive_Grenade11.caf
+swim = explosive_swim.caf
+
+$AutoUnload = yes
+$DelayLoad = yes

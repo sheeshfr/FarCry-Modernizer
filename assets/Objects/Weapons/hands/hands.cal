@@ -1,0 +1,15 @@
+$AnimDir = .
+
+$AutoUnload = no
+$DelayLoad = no
+
+activate1 = hands_Activate1.caf
+idle11 = hands_idle11.caf
+fire11 = hands_leftjab.caf
+fire12 = hands_rightjab.caf
+fire21 = hands_uppercut.caf
+swim = hands_swim.caf
+grenade11 = hands_Grenade11.caf
+
+$AutoUnload = yes
+$DelayLoad = yes

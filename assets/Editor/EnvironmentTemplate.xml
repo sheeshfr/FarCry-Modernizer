@@ -1,0 +1,43 @@
+<Templates>
+	<Environment>
+		<Fog>
+			<Color Type="Color" Value="255,255,255" />
+			<Start Type="Int" Value="64" Min="0" Max="10000" />
+			<End Type="Int" Value="1500" Min="0" Max="10000" />
+			<ViewDistance Type="Int" Value="1024" Min="0" Max="10000" />
+		</Fog>
+		<Shaders>
+			<SkyBox Type="Shader" Value="InfRedGal" />
+			<Water Type="Shader" Value="terrainwater" />
+			<SunWaterRefl Type="Shader" Value="BumpSunGlow" />
+			<SunLensFlares Type="Shader" Value="CryLight" />
+			<Shore Type="Shader" Value="terrainwaterbeach" />
+		</Shaders>
+		<EnvState>
+			<EnvColor Type="Color" Value="128,128,128" />
+			<OutdoorAmbientColor Type="Color" Value="64,64,64" />
+			<SunColor Type="Color" Value="128,128,128" />
+			<SkyBoxAngle Type="Float" Value="0.0" />
+			<SkyBoxStretching Type="Float" Value="1.0" />
+			<SunHeightScale Type="Float" Value="1.0" />
+			<WindForce Type="Float" Value="0.15" />
+		</EnvState>
+		<Ocean>
+			<BottomTexture Type="Texture" Value="Textures\Defaults\white.dds" />
+			<ShoreSize Type="Float" Value="2.0" />
+			<SurfaceTranspRatio Type="Float" Value="1.0" />
+			<SurfaceReflectRatio Type="Float" Value="1.0" />
+			<SurfaceBumpAmountX Type="Float" Value="0.08" />
+			<SurfaceBumpAmountY Type="Float" Value="0.12" />
+			<BorderTranspRatio Type="Float" Value="0.5" />
+			<FogColor Type="Color" Value="51,90,102" />
+			<FogDistance Type="Float" Value="8" />
+			<Caustics Type="Bool" Value="1" />
+		</Ocean>
+		<HeightMap>
+			<DefaultZoomTexture Type="Texture" Value="" />
+			<GeometryLodRatio Type="Float" Value="1.0" />
+			<TextureLodRatio Type="Float" Value="1.0" />
+		</HeightMap>
+	</Environment>
+</Templates>

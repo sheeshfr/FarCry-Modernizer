@@ -1,0 +1,16 @@
+$AnimDir = .
+
+$AutoUnload = no
+$DelayLoad = no
+
+activate1 = Flashbang_Activate1.caf
+deactivate1 = Flashbang_Deactivate1.caf
+idle11 = Flashbang_Idle11.caf
+idle21 = Flashbang_Idle21.caf
+fire11 = Flashbang_Fire11.caf
+fire21 = Flashbang_Fire21.caf
+firestart1 = Flashbang_FireStart1.caf
+fidget11 = Flashbang_Fidget11.caf
+
+$AutoUnload = yes
+$DelayLoad = yes

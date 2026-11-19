@@ -1,0 +1,11 @@
+$AnimDir = .
+
+$AutoUnload = no
+$DelayLoad = no
+
+idle11 = ntw20_idle11.caf
+fire11 = ntw20_fire11_loop.caf
+activate1 = ntw20_idle11.caf
+
+$AutoUnload = yes
+$DelayLoad = yes
